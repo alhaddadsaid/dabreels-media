@@ -1,0 +1,90 @@
+name: Media (episodes from open films)
+
+# Rebuilds every episode when the film list or the pipeline changes.
+on:
+  push:
+    branches: [main]
+    paths: ['tools/media/**', '.github/workflows/media.yml']
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: media
+  cancel-in-progress: true
+
+jobs:
+  film:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    strategy:
+      fail-fast: false
+      matrix:
+        film: [tears_of_steel, sintel, big_buck_bunny, spring, coffee_run, wing_it, caminandes, the_general, safety_last]
+    steps:
+      - uses: actions/checkout@v4
+      - name: Tools
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq ffmpeg fonts-dejavu-core python3-numpy >/dev/null
+          ffmpeg -version | head -1
+      - name: Make episodes
+        run: python3 tools/media/build.py ${{ matrix.film }} out
+      - name: Keep results
+        uses: actions/upload-artifact@v4
+        with:
+          name: film-${{ matrix.film }}
+          path: out
+          retention-days: 30
+          compression-level: 0
+
+  publish:
+    needs: film
+    if: always()
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/download-artifact@v4
+        with:
+          pattern: film-*
+          merge-multiple: true
+          path: out
+      - name: Manifest
+        run: |
+          python3 - <<'PY'
+          import json, os
+          films = []
+          for d in sorted(os.listdir('out')):
+              m = os.path.join('out', d, 'meta.json')
+              if os.path.exists(m):
+                  films.append(json.load(open(m)))
+          json.dump({'films': films}, open('out/manifest.json', 'w'), indent=1, ensure_ascii=False)
+          for f in films:
+              print(f['id'], len(f['episodes']), 'episodes', round(sum(e['duration'] for e in f['episodes'])/60, 1), 'min')
+          PY
+          du -sh out/*
+      - name: Publish episodes as release v1 (public download links)
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          mkdir -p upload
+          for d in out/*/; do
+            id=$(basename "$d")
+            for f in "$d"ep_*.mp4; do [ -f "$f" ] && cp "$f" "upload/${id}__$(basename "$f")"; done
+          done
+          ls upload | wc -l
+          cp out/manifest.json upload/manifest.json
+          gh release view v1 >/dev/null 2>&1 || gh release create v1 --title "Episodes v1" --notes "Vertical episodes cut from Creative Commons and public-domain films. Credits and licences: see README.md." --target main
+          ls upload/* | xargs -n 10 gh release upload v1 --clobber
+      - name: Save metadata (no videos) to media-out
+        run: |
+          find out -name '*.mp4' -delete
+          ls -R out | head -80
+      - uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: media-out
+          publish_dir: out
+          keep_files: true
+          commit_message: "Episodes metadata for ${{ github.sha }}"

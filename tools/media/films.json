@@ -1,0 +1,94 @@
+{
+  "_note": "Sources were checked for license on 24 Oct 2026. Commons files are fetched through Special:FilePath.",
+  "episode_target_seconds": 100,
+  "films": [
+    {
+      "id": "tears_of_steel",
+      "sources": ["https://download.blender.org/demo/movies/ToS/tears_of_steel_720p.mov"],
+      "subtitles": {"en": "https://download.blender.org/demo/movies/ToS/subtitles/TOS-en.srt"},
+      "license": "CC BY 3.0",
+      "credit": "(CC) Blender Foundation | mango.blender.org"
+    },
+    {
+      "id": "sintel",
+      "sources": ["https://download.blender.org/durian/movies/Sintel.2010.1080p.mkv"],
+      "subtitles": {
+        "ar": "https://download.blender.org/durian/subs/sintel_ar.srt",
+        "en": "https://download.blender.org/durian/subs/sintel_en.srt"
+      },
+      "license": "CC BY 3.0",
+      "credit": "© copyright Blender Foundation | durian.blender.org"
+    },
+    {
+      "id": "big_buck_bunny",
+      "sources": ["https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4"],
+      "license": "CC BY 3.0",
+      "credit": "(c) copyright 2008, Blender Foundation / www.bigbuckbunny.org"
+    },
+    {
+      "id": "spring",
+      "sources": ["https://commons.wikimedia.org/wiki/Special:FilePath/Spring_-_Blender_Open_Movie.webm"],
+      "license": "CC BY 4.0",
+      "credit": "© Blender Foundation | cloud.blender.org/spring"
+    },
+    {
+      "id": "coffee_run",
+      "sources": ["https://commons.wikimedia.org/wiki/Special:FilePath/Coffee_Run_-_Blender_Open_Movie-full_movie.webm"],
+      "license": "CC BY 4.0",
+      "credit": "(CC) Blender Foundation | studio.blender.org"
+    },
+    {
+      "id": "wing_it",
+      "sources": ["https://archive.org/download/wing_it/wing_it.mp4"],
+      "license": "CC BY 4.0",
+      "credit": "(CC) Blender Foundation | studio.blender.org"
+    },
+    {
+      "id": "caminandes",
+      "parts": [
+        "https://archive.org/download/Caminandes1LlamaDrama/01_llama_drama_1080p.mp4",
+        "https://archive.org/download/Caminandes2GranDillama/02_gran_dillama_1080p.mp4",
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Caminandes_3_-_Llamigos_-_Blender_Animated_Short.webm"
+      ],
+      "license": "CC BY 3.0",
+      "credit": "(CC) Blender Foundation | caminandes.com"
+    },
+    {
+      "id": "the_general",
+      "sources": ["https://commons.wikimedia.org/wiki/Special:FilePath/The_General_1926_720p.webm"],
+      "silent": true,
+      "episode_target_seconds": 105,
+      "license": "Public domain (1926)",
+      "credit": "The General (1926), Buster Keaton and Clyde Bruckman. Public domain copy from Wikimedia Commons."
+    },
+    {
+      "id": "safety_last",
+      "sources": ["https://commons.wikimedia.org/wiki/Special:FilePath/Safety_Last_(1923).webm"],
+      "silent": true,
+      "episode_target_seconds": 105,
+      "license": "Public domain (1923)",
+      "credit": "Safety Last! (1923), Harold Lloyd, dir. Fred C. Newmeyer and Sam Taylor. Public domain copy from Wikimedia Commons."
+    }
+  ],
+  "silent_music": {
+    "credit": "Music: Scott Joplin and others, public domain piano recordings by Gnissah on Wikimedia Commons.",
+    "tracks": [
+      "Scott_Joplin_-_The_Entertainer_(1902).ogg",
+      "Scott_Joplin_-_Maple_Leaf_Rag_(1899).ogg",
+      "Scott_Joplin_-_Peacherine_Rag_(1901).ogg",
+      "Scott_Joplin_-_Palm_Leaf_Rag_(1903).ogg",
+      "Scott_Joplin_-_Ragtime_Dance_(1906).ogg",
+      "Scott_Joplin_-_Gladiolus_Rag_(1907).ogg",
+      "Scott_Joplin_-_Rose_Leaf_Rag_(1907).ogg",
+      "Scott_Joplin_-_Searchlight_Rag_(1907).ogg",
+      "Scott_Joplin_-_Sensation_Rag_(1908).ogg",
+      "Scott_Joplin_-_Paragon_Rag_(1909).ogg",
+      "Scott_Joplin_-_Wall_Street_Rag_(1909).ogg",
+      "Scott_Joplin_-_Stop_Time_Rag_(1910).ogg",
+      "Scott_Joplin_-_Felicity_Rag_(1911).ogg",
+      "Scott_Joplin_-_New_Rag_(1912).ogg",
+      "Scott_Joplin_-_Kismet_Rag_(1913).ogg",
+      "Scott_Joplin_-_Magnetic_Rag_(1914).ogg"
+    ]
+  }
+}
