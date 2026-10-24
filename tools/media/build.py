@@ -328,15 +328,17 @@ def main():
     if film.get('silent'):
         music = build_music_bed(SPEC['silent_music']['tracks'], dur, work, seed=film_id)
         meta['music_credit'] = SPEC['silent_music']['credit']
-        meta['title_cards'] = detect_title_cards(src, outdir)
 
-    scenes = scene_times(src)
-    cuts = plan_cuts(dur, target, scenes)
+    # skip distributor logos etc. at the start; times below stay in source time
+    trim = float(film.get('trim_start', 0))
+    meta['trim_start'] = trim
+    scenes = [t - trim for t in scene_times(src) if t > trim]
+    cuts = [trim + c for c in plan_cuts(dur - trim, target, scenes)]
     print('cuts:', [round(c, 1) for c in cuts], flush=True)
     for k in range(len(cuts) - 1):
         a, b = cuts[k], cuts[k + 1]
         out = os.path.join(outdir, f'ep_{k + 1:02d}.mp4')
-        encode_episode(src, a, b - a, w, h, out, music=music, music_offset=a,
+        encode_episode(src, a, b - a, w, h, out, music=music, music_offset=a - trim,
                        has_audio=has_audio and not film.get('silent'))
         meta['episodes'].append({'n': k + 1, 'file': f'ep_{k + 1:02d}.mp4', 'start': round(a, 3),
                                  'end': round(b, 3), 'duration': round(b - a, 3)})

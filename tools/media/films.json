@@ -4,14 +4,20 @@
   "films": [
     {
       "id": "tears_of_steel",
-      "sources": ["https://download.blender.org/demo/movies/ToS/tears_of_steel_720p.mov"],
-      "subtitles": {"en": "https://download.blender.org/demo/movies/ToS/subtitles/TOS-en.srt"},
+      "sources": [
+        "https://download.blender.org/demo/movies/ToS/tears_of_steel_720p.mov"
+      ],
+      "subtitles": {
+        "en": "https://download.blender.org/demo/movies/ToS/subtitles/TOS-en.srt"
+      },
       "license": "CC BY 3.0",
       "credit": "(CC) Blender Foundation | mango.blender.org"
     },
     {
       "id": "sintel",
-      "sources": ["https://download.blender.org/durian/movies/Sintel.2010.1080p.mkv"],
+      "sources": [
+        "https://download.blender.org/durian/movies/Sintel.2010.1080p.mkv"
+      ],
       "subtitles": {
         "ar": "https://download.blender.org/durian/subs/sintel_ar.srt",
         "en": "https://download.blender.org/durian/subs/sintel_en.srt"
@@ -21,25 +27,33 @@
     },
     {
       "id": "big_buck_bunny",
-      "sources": ["https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4"],
+      "sources": [
+        "https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4"
+      ],
       "license": "CC BY 3.0",
       "credit": "(c) copyright 2008, Blender Foundation / www.bigbuckbunny.org"
     },
     {
       "id": "spring",
-      "sources": ["https://commons.wikimedia.org/wiki/Special:FilePath/Spring_-_Blender_Open_Movie.webm"],
+      "sources": [
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Spring_-_Blender_Open_Movie.webm"
+      ],
       "license": "CC BY 4.0",
       "credit": "© Blender Foundation | cloud.blender.org/spring"
     },
     {
       "id": "coffee_run",
-      "sources": ["https://commons.wikimedia.org/wiki/Special:FilePath/Coffee_Run_-_Blender_Open_Movie-full_movie.webm"],
+      "sources": [
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Coffee_Run_-_Blender_Open_Movie-full_movie.webm"
+      ],
       "license": "CC BY 4.0",
       "credit": "(CC) Blender Foundation | studio.blender.org"
     },
     {
       "id": "wing_it",
-      "sources": ["https://archive.org/download/wing_it/wing_it.mp4"],
+      "sources": [
+        "https://archive.org/download/wing_it/wing_it.mp4"
+      ],
       "license": "CC BY 4.0",
       "credit": "(CC) Blender Foundation | studio.blender.org"
     },
@@ -55,15 +69,20 @@
     },
     {
       "id": "the_general",
-      "sources": ["https://commons.wikimedia.org/wiki/Special:FilePath/The_General_1926_720p.webm"],
+      "sources": [
+        "https://commons.wikimedia.org/wiki/Special:FilePath/The_General_1926_720p.webm"
+      ],
       "silent": true,
       "episode_target_seconds": 105,
       "license": "Public domain (1926)",
-      "credit": "The General (1926), Buster Keaton and Clyde Bruckman. Public domain copy from Wikimedia Commons."
+      "credit": "The General (1926), Buster Keaton and Clyde Bruckman. Public domain copy from Wikimedia Commons.",
+      "trim_start": 8.0
     },
     {
       "id": "safety_last",
-      "sources": ["https://commons.wikimedia.org/wiki/Special:FilePath/Safety_Last_(1923).webm"],
+      "sources": [
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Safety_Last_(1923).webm"
+      ],
       "silent": true,
       "episode_target_seconds": 105,
       "license": "Public domain (1923)",
