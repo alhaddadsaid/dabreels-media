@@ -1,0 +1,66 @@
+{
+ "id": "tears_of_steel",
+ "license": "CC BY 3.0",
+ "credit": "(CC) Blender Foundation | mango.blender.org",
+ "sources": [
+  "https://download.blender.org/demo/movies/ToS/tears_of_steel_720p.mov"
+ ],
+ "episodes": [
+  {
+   "n": 1,
+   "file": "ep_01.mp4",
+   "start": 0.0,
+   "end": 102.417,
+   "duration": 102.417
+  },
+  {
+   "n": 2,
+   "file": "ep_02.mp4",
+   "start": 102.417,
+   "end": 208.667,
+   "duration": 106.25
+  },
+  {
+   "n": 3,
+   "file": "ep_03.mp4",
+   "start": 208.667,
+   "end": 315.375,
+   "duration": 106.708
+  },
+  {
+   "n": 4,
+   "file": "ep_04.mp4",
+   "start": 315.375,
+   "end": 418.792,
+   "duration": 103.417
+  },
+  {
+   "n": 5,
+   "file": "ep_05.mp4",
+   "start": 418.792,
+   "end": 527.417,
+   "duration": 108.625
+  },
+  {
+   "n": 6,
+   "file": "ep_06.mp4",
+   "start": 527.417,
+   "end": 616.875,
+   "duration": 89.458
+  },
+  {
+   "n": 7,
+   "file": "ep_07.mp4",
+   "start": 616.875,
+   "end": 734.167,
+   "duration": 117.292
+  }
+ ],
+ "source_duration": 734.17,
+ "source_size": [
+  1280,
+  534
+ ],
+ "trim_start": 0.0,
+ "poster_time": 430.7111113066666
+}

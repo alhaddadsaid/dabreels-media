@@ -1,0 +1,37 @@
+{
+ "id": "caminandes",
+ "license": "CC BY 3.0",
+ "credit": "(CC) Blender Foundation | caminandes.com",
+ "sources": [
+  "https://archive.org/download/Caminandes1LlamaDrama/01_llama_drama_1080p.mp4",
+  "https://archive.org/download/Caminandes2GranDillama/02_gran_dillama_1080p.mp4",
+  "https://commons.wikimedia.org/wiki/Special:FilePath/Caminandes_3_-_Llamigos_-_Blender_Animated_Short.webm"
+ ],
+ "episodes": [
+  {
+   "n": 1,
+   "file": "ep_01.mp4",
+   "source_part": 1,
+   "start": 0,
+   "end": 90.0,
+   "duration": 90.0
+  },
+  {
+   "n": 2,
+   "file": "ep_02.mp4",
+   "source_part": 2,
+   "start": 0,
+   "end": 146.04,
+   "duration": 146.04
+  },
+  {
+   "n": 3,
+   "file": "ep_03.mp4",
+   "source_part": 3,
+   "start": 0,
+   "end": 150.1,
+   "duration": 150.1
+  }
+ ],
+ "poster_time": 73.80044608
+}

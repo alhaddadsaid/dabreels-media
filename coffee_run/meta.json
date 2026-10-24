@@ -1,0 +1,31 @@
+{
+ "id": "coffee_run",
+ "license": "CC BY 4.0",
+ "credit": "(CC) Blender Foundation | studio.blender.org",
+ "sources": [
+  "https://commons.wikimedia.org/wiki/Special:FilePath/Coffee_Run_-_Blender_Open_Movie-full_movie.webm"
+ ],
+ "episodes": [
+  {
+   "n": 1,
+   "file": "ep_01.mp4",
+   "start": 0.0,
+   "end": 106.674,
+   "duration": 106.674
+  },
+  {
+   "n": 2,
+   "file": "ep_02.mp4",
+   "start": 106.674,
+   "end": 184.641,
+   "duration": 77.967
+  }
+ ],
+ "source_duration": 184.64,
+ "source_size": [
+  1920,
+  804
+ ],
+ "trim_start": 0.0,
+ "poster_time": 39.39008
+}

@@ -1,0 +1,562 @@
+[
+ {
+  "n": 1,
+  "start": 11.0,
+  "end": 17.5,
+  "text": "cJoseph WJ. Schenck BUSTER KEATON \\ 4 THE GENERAL A UNITED ARTISTS PRODUCTION",
+  "conf": 84,
+  "image": "001.jpg"
+ },
+ {
+  "n": 2,
+  "start": 19.5,
+  "end": 23.5,
+  "text": "Written and Directed by Buster Keaton and Clyde Bruckman",
+  "conf": 96,
+  "image": "002.jpg"
+ },
+ {
+  "n": 3,
+  "start": 25.0,
+  "end": 34.5,
+  "text": "Adapted by Al Boasberg and Charles Smith Photographed by : Dev Jennings and Bert Haines Technical Director Lighting Effects Fred Gabourie Denver Harmon.",
+  "conf": 92,
+  "image": "003.jpg"
+ },
+ {
+  "n": 4,
+  "start": 36.5,
+  "end": 50.5,
+  "text": "crea Annabelle Lee............- Marion Mack Captain Anderson ........Glen Cavender General Thatcher..... -. Jim Farley A Southern General.... Frederick Vroom Fler ot Her > —PranksBarrkes oe Keaton Three Union Generals ...... ) Mike Donlin Tom Nawn Johnnie Buster Keaton",
+  "conf": 82,
+  "image": "004.jpg"
+ },
+ {
+  "n": 5,
+  "start": 60.5,
+  "end": 63.0,
+  "text": "CT he Western and Atlantic Flyer speeding into Marietta, Ga., in the Spring of 186].",
+  "conf": 93,
+  "image": "005.jpg"
+ },
+ {
+  "n": 6,
+  "start": 63.0,
+  "end": 66.5,
+  "text": "C] he Western and Atlantic Flyer speeding into Marietta, Ga, in the Spring of 1861.",
+  "conf": 89,
+  "image": "006.jpg"
+ },
+ {
+  "n": 7,
+  "start": 128.5,
+  "end": 130.5,
+  "text": "C] here were two loves in his life.",
+  "conf": 90,
+  "image": "007.jpg"
+ },
+ {
+  "n": 8,
+  "start": 131.0,
+  "end": 133.0,
+  "text": "C] here were two loves in his life. His engine,",
+  "conf": 92,
+  "image": "008.jpg"
+ },
+ {
+  "n": 9,
+  "start": 133.0,
+  "end": 135.0,
+  "text": "CT here were two loves in his life. | | His engine, And —",
+  "conf": 85,
+  "image": "009.jpg"
+ },
+ {
+  "n": 10,
+  "start": 265.5,
+  "end": 268.5,
+  "text": "‘Fort Sumter has been fired upon.\"",
+  "conf": 86,
+  "image": "010.jpg"
+ },
+ {
+  "n": 11,
+  "start": 272.0,
+  "end": 274.5,
+  "text": "the war is here.’",
+  "conf": 84,
+  "image": "011.jpg"
+ },
+ {
+  "n": 12,
+  "start": 277.0,
+  "end": 284.0,
+  "text": "“Yes, dad, and I'm going to be one of the first | to enlist.\"",
+  "conf": 89,
+  "image": "012.jpg"
+ },
+ {
+  "n": 13,
+  "start": 311.0,
+  "end": 314.0,
+  "text": "Aren't you going to enlist?\"",
+  "conf": 79,
+  "image": "013.jpg"
+ },
+ {
+  "n": 14,
+  "start": 380.0,
+  "end": 384.0,
+  "text": "‘Engineer on the Western and Atlantic Railroad.\"",
+  "conf": 94,
+  "image": "014.jpg"
+ },
+ {
+  "n": 15,
+  "start": 399.5,
+  "end": 406.5,
+  "text": "‘Don’t enlist him. He is more valuable to the South as an engineer.\"",
+  "conf": 94,
+  "image": "015.jpg"
+ },
+ {
+  "n": 16,
+  "start": 446.5,
+  "end": 448.5,
+  "text": "Pong hig Py: = ie > nome | p a <M st a A. \\ perry | | | — ~",
+  "conf": 59,
+  "image": "016.jpg"
+ },
+ {
+  "n": 17,
+  "start": 490.0,
+  "end": 492.0,
+  "text": "! ii as | Hi || , be | cA { Vs | | 4 t 4 ed Fae y | st A amy",
+  "conf": 57,
+  "image": "017.jpg"
+ },
+ {
+  "n": 18,
+  "start": 546.0,
+  "end": 550.5,
+  "text": "‘IF you lose this war don’t blame me.\"",
+  "conf": 92,
+  "image": "018.jpg"
+ },
+ {
+  "n": 19,
+  "start": 601.5,
+  "end": 603.5,
+  "text": "‘Did Johnnie enlist?\"",
+  "conf": 84,
+  "image": "019.jpg"
+ },
+ {
+  "n": 20,
+  "start": 607.5,
+  "end": 611.0,
+  "text": "‘He didn’t even get in line.\"",
+  "conf": 91,
+  "image": "020.jpg"
+ },
+ {
+  "n": 21,
+  "start": 618.0,
+  "end": 621.0,
+  "text": "‘He's a disgrace to the South.\"",
+  "conf": 86,
+  "image": "021.jpg"
+ },
+ {
+  "n": 22,
+  "start": 646.0,
+  "end": 648.0,
+  "text": "“Why didn’t you enlist?\"",
+  "conf": 82,
+  "image": "022.jpg"
+ },
+ {
+  "n": 23,
+  "start": 651.0,
+  "end": 653.5,
+  "text": "“They wouldn't take me.\"",
+  "conf": 73,
+  "image": "023.jpg"
+ },
+ {
+  "n": 24,
+  "start": 659.0,
+  "end": 668.0,
+  "text": "‘Please don’t lie —] don’t want you to speak to me again until you are in uniform.‘",
+  "conf": 88,
+  "image": "024.jpg"
+ },
+ {
+  "n": 25,
+  "start": 697.5,
+  "end": 700.0,
+  "text": "eH year later. | In a Union encampment just North of Chattanooga.",
+  "conf": 88,
+  "image": "025.jpg"
+ },
+ {
+  "n": 26,
+  "start": 700.5,
+  "end": 702.5,
+  "text": "eH _ year later. In a Union encampment just North of Chattanooga.",
+  "conf": 90,
+  "image": "026.jpg"
+ },
+ {
+  "n": 27,
+  "start": 712.5,
+  "end": 715.5,
+  "text": "(general Thatcher, and his chief spy, Captain Anderson.",
+  "conf": 96,
+  "image": "027.jpg"
+ },
+ {
+  "n": 28,
+  "start": 720.0,
+  "end": 730.0,
+  "text": "‘| know every foot of this railroad from Marietta to Chattanooga — and _ with ten picked men | cannot Fail.”",
+  "conf": 89,
+  "image": "028.jpg"
+ },
+ {
+  "n": 29,
+  "start": 735.5,
+  "end": 745.0,
+  "text": "“We will enter the South as civilians coming from | the neutral state of 7 Kentucky to join the Southern cause.\"",
+  "conf": 89,
+  "image": "029.jpg"
+ },
+ {
+  "n": 30,
+  "start": 750.0,
+  "end": 768.5,
+  "text": "\"At Big Shanty we will steal the train while the passengers and crew are at dinner, and proceeding North we will burn every bridge, cutting off the supplies of the army now facing you.\"",
+  "conf": 96,
+  "image": "030.jpg"
+ },
+ {
+  "n": 31,
+  "start": 778.0,
+  "end": 786.5,
+  "text": "“Then the day you steal the train I will have General Parker advance to meet you.\"",
+  "conf": 95,
+  "image": "031.jpg"
+ },
+ {
+  "n": 32,
+  "start": 805.0,
+  "end": 809.0,
+  "text": "‘As soon as I arrive I will let you know how seriously father is wounded.’",
+  "conf": 89,
+  "image": "032.jpg"
+ },
+ {
+  "n": 33,
+  "start": 1089.5,
+  "end": 1093.5,
+  "text": "“Three men stole my General. I think they are deserters.\"",
+  "conf": 94,
+  "image": "033.jpg"
+ },
+ {
+  "n": 34,
+  "start": 1210.5,
+  "end": 1213.0,
+  "text": "“Why not stop and fight them?\"",
+  "conf": 91,
+  "image": "034.jpg"
+ },
+ {
+  "n": 35,
+  "start": 1217.0,
+  "end": 1221.0,
+  "text": "‘I'm afraid they have us greatly outnumbered.\"",
+  "conf": 92,
+  "image": "035.jpg"
+ },
+ {
+  "n": 36,
+  "start": 1769.5,
+  "end": 1773.5,
+  "text": "Southern army facing Chattanooga is ordered to retreat.",
+  "conf": 95,
+  "image": "036.jpg"
+ },
+ {
+  "n": 37,
+  "start": 1841.5,
+  "end": 1844.0,
+  "text": "(general Parker's victorious Northern",
+  "conf": 90,
+  "image": "037.jpg"
+ },
+ {
+  "n": 38,
+  "start": 1954.5,
+  "end": 1956.5,
+  "text": "“There is only one man on that engine.\"",
+  "conf": 92,
+  "image": "038.jpg"
+ },
+ {
+  "n": 39,
+  "start": 2008.0,
+  "end": 2014.0,
+  "text": "[n the country — hopelessly lost, helplessly cold and horribly hungry.",
+  "conf": 75,
+  "image": "039.jpg"
+ },
+ {
+  "n": 40,
+  "start": 2043.0,
+  "end": 2045.0,
+  "text": "| im { i | 4 | | | | | | || | | a Se | | Yas wih = _ aan 45",
+  "conf": 62,
+  "image": "040.jpg"
+ },
+ {
+  "n": 41,
+  "start": 2085.0,
+  "end": 2087.0,
+  "text": ". / ; a, i : vt 5 mom = y 2) F | \\ tes y pp Lan\" ff, @ > f . 4 « a vA 4 a » ‘ ® ~ > . ° Se",
+  "conf": 57,
+  "image": "041.jpg"
+ },
+ {
+  "n": 42,
+  "start": 2092.5,
+  "end": 2098.0,
+  "text": "‘At nine o’clock tomorrow morning our supply trains will meet and unite with General Parker's army at the Rock River bridge.\"",
+  "conf": 91,
+  "image": "042.jpg"
+ },
+ {
+  "n": 43,
+  "start": 2098.0,
+  "end": 2100.5,
+  "text": "‘At nine tomorrow morning our supply trains will meet and unite with General army at the Rock River bridge.\"",
+  "conf": 94,
+  "image": "043.jpg"
+ },
+ {
+  "n": 44,
+  "start": 2103.0,
+  "end": 2113.0,
+  "text": "“Then the army, backed by our supply trains, will advance for a surprise attack on the rebels left flank.\"",
+  "conf": 96,
+  "image": "044.jpg"
+ },
+ {
+  "n": 45,
+  "start": 2113.0,
+  "end": 2115.0,
+  "text": "' 1 dite he le > 2 . f. 4 . wee) : _ § = - \\ ‘\\ — . e ‘ - i =",
+  "conf": 57,
+  "image": "045.jpg"
+ },
+ {
+  "n": 46,
+  "start": 2117.0,
+  "end": 2124.5,
+  "text": "‘Once our trains and troops cross that bridge, nothing on earth can stop us.’",
+  "conf": 94,
+  "image": "046.jpg"
+ },
+ {
+  "n": 47,
+  "start": 2166.5,
+  "end": 2169.0,
+  "text": "“This girl was in the baggage car when we stole the train, so | “best “to hold her.\"",
+  "conf": 89,
+  "image": "047.jpg"
+ },
+ {
+  "n": 48,
+  "start": 2169.0,
+  "end": 2177.0,
+  "text": "“This girl was in the baggage car when we stole the train, so | thought it best to hold her.\"",
+  "conf": 93,
+  "image": "048.jpg"
+ },
+ {
+  "n": 49,
+  "start": 2184.0,
+  "end": 2186.0,
+  "text": "/ i | peo ame . Py 1 a \\ | ids / X / >",
+  "conf": 59,
+  "image": "049.jpg"
+ },
+ {
+  "n": 50,
+  "start": 2241.0,
+  "end": 2243.5,
+  "text": "ah ae. A | 4 i U | | |",
+  "conf": 67,
+  "image": "050.jpg"
+ },
+ {
+  "n": 51,
+  "start": 2257.5,
+  "end": 2259.5,
+  "text": "> wads SD iy i?",
+  "conf": 60,
+  "image": "051.jpg"
+ },
+ {
+  "n": 52,
+  "start": 2265.5,
+  "end": 2268.0,
+  "text": "> | 3 7 ~ ha ge. 2 | \\ Mr a { = 2 06 : 2 \\ & bbe\" + RASS im £5 2 _—",
+  "conf": 56,
+  "image": "052.jpg"
+ },
+ {
+  "n": 53,
+  "start": 2286.5,
+  "end": 2291.0,
+  "text": "it || | | | 7 BM 7 j 4 { if Lape J x. qe at \\ ! ig “ ‘fs — Ni . ee }",
+  "conf": 57,
+  "image": "053.jpg"
+ },
+ {
+  "n": 54,
+  "start": 2321.0,
+  "end": 2324.5,
+  "text": "pom | | | JW | | 1 ye |",
+  "conf": 62,
+  "image": "054.jpg"
+ },
+ {
+  "n": 55,
+  "start": 2356.0,
+  "end": 2359.5,
+  "text": "am ni ou | 4 Ae | oe é 4 | 7 : > ae a WANS ce ii Sy) yh if 4 »* = UY (4 ' «| Ds off : rer",
+  "conf": 56,
+  "image": "055.jpg"
+ },
+ {
+  "n": 56,
+  "start": 2511.5,
+  "end": 2518.0,
+  "text": "‘We had better stay here until daybreak to see where we are.\"",
+  "conf": 94,
+  "image": "056.jpg"
+ },
+ {
+  "n": 57,
+  "start": 2524.5,
+  "end": 2527.5,
+  "text": "‘It was so brave of you to risk your life, coming into the enemy's country, just to save me.\"",
+  "conf": 94,
+  "image": "057.jpg"
+ },
+ {
+  "n": 58,
+  "start": 2527.5,
+  "end": 2530.0,
+  "text": "‘It was so brave of you to risk your life, coming into the country, just to save me.’ }",
+  "conf": 91,
+  "image": "058.jpg"
+ },
+ {
+  "n": 59,
+  "start": 2530.0,
+  "end": 2533.0,
+  "text": "‘It was so brave of you to risk your life, coming into the enemy's country, just to save me.’",
+  "conf": 93,
+  "image": "059.jpg"
+ },
+ {
+  "n": 60,
+  "start": 2554.5,
+  "end": 2559.0,
+  "text": "a nice, quiet, refreshing",
+  "conf": 90,
+  "image": "060.jpg"
+ },
+ {
+  "n": 61,
+  "start": 2633.0,
+  "end": 2636.5,
+  "text": "\"We've got to get back to our lines somehow and warn them of this coming attack.\"",
+  "conf": 95,
+  "image": "061.jpg"
+ },
+ {
+  "n": 62,
+  "start": 2636.5,
+  "end": 2639.5,
+  "text": "\"We've got to get back to our lines somehow warn them of this coming attack.\"",
+  "conf": 95,
+  "image": "062.jpg"
+ },
+ {
+  "n": 63,
+  "start": 2835.0,
+  "end": 2844.5,
+  "text": "‘1 will get that spy before he reaches the Southern lines. You follow with the supply trains as planned.\"",
+  "conf": 92,
+  "image": "063.jpg"
+ },
+ {
+  "n": 64,
+  "start": 3010.0,
+  "end": 3012.5,
+  "text": "“We must pick up more firewood.\"",
+  "conf": 88,
+  "image": "064.jpg"
+ },
+ {
+  "n": 65,
+  "start": 3641.5,
+  "end": 3644.5,
+  "text": "Cy River. bridge.",
+  "conf": 84,
+  "image": "065.jpg"
+ },
+ {
+  "n": 66,
+  "start": 3691.0,
+  "end": 3696.0,
+  "text": "CT he Northern division nearing the bridge to meet the supply trains.",
+  "conf": 88,
+  "image": "066.jpg"
+ },
+ {
+  "n": 67,
+  "start": 4083.5,
+  "end": 4092.0,
+  "text": "“That bridge is not burned enough to stop you, and my men will ford the river.\"",
+  "conf": 96,
+  "image": "067.jpg"
+ },
+ {
+  "n": 68,
+  "start": 4411.5,
+  "end": 4413.5,
+  "text": "CHeroes of",
+  "conf": 87,
+  "image": "068.jpg"
+ },
+ {
+  "n": 69,
+  "start": 4559.5,
+  "end": 4561.5,
+  "text": "“Is that your uniform?\" —",
+  "conf": 68,
+  "image": "069.jpg"
+ },
+ {
+  "n": 70,
+  "start": 4569.0,
+  "end": 4571.0,
+  "text": "‘| had to wear it to get through the lines.\"",
+  "conf": 91,
+  "image": "070.jpg"
+ }
+]

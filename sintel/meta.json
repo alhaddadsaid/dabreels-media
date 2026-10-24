@@ -1,0 +1,80 @@
+{
+ "id": "sintel",
+ "license": "CC BY 3.0",
+ "credit": "© copyright Blender Foundation | durian.blender.org",
+ "sources": [
+  "https://download.blender.org/durian/movies/Sintel.2010.1080p.mkv"
+ ],
+ "episodes": [
+  {
+   "n": 1,
+   "file": "ep_01.mp4",
+   "start": 0.0,
+   "end": 101.208,
+   "duration": 101.208
+  },
+  {
+   "n": 2,
+   "file": "ep_02.mp4",
+   "start": 101.208,
+   "end": 197.625,
+   "duration": 96.417
+  },
+  {
+   "n": 3,
+   "file": "ep_03.mp4",
+   "start": 197.625,
+   "end": 297.25,
+   "duration": 99.625
+  },
+  {
+   "n": 4,
+   "file": "ep_04.mp4",
+   "start": 297.25,
+   "end": 382.917,
+   "duration": 85.667
+  },
+  {
+   "n": 5,
+   "file": "ep_05.mp4",
+   "start": 382.917,
+   "end": 483.708,
+   "duration": 100.791
+  },
+  {
+   "n": 6,
+   "file": "ep_06.mp4",
+   "start": 483.708,
+   "end": 598.958,
+   "duration": 115.25
+  },
+  {
+   "n": 7,
+   "file": "ep_07.mp4",
+   "start": 598.958,
+   "end": 684.417,
+   "duration": 85.459
+  },
+  {
+   "n": 8,
+   "file": "ep_08.mp4",
+   "start": 684.417,
+   "end": 789.362,
+   "duration": 104.945
+  },
+  {
+   "n": 9,
+   "file": "ep_09.mp4",
+   "start": 789.362,
+   "end": 888.032,
+   "duration": 98.67
+  }
+ ],
+ "source_duration": 888.03,
+ "source_size": [
+  1920,
+  818
+ ],
+ "trim_start": 0.0,
+ "poster_time": 728.18624
+}

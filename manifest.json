@@ -1,0 +1,1005 @@
+{
+ "films": [
+  {
+   "id": "big_buck_bunny",
+   "license": "CC BY 3.0",
+   "credit": "(c) copyright 2008, Blender Foundation / www.bigbuckbunny.org",
+   "sources": [
+    "https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4"
+   ],
+   "episodes": [
+    {
+     "n": 1,
+     "file": "ep_01.mp4",
+     "start": 0.0,
+     "end": 99.75,
+     "duration": 99.75
+    },
+    {
+     "n": 2,
+     "file": "ep_02.mp4",
+     "start": 99.75,
+     "end": 199.833,
+     "duration": 100.083
+    },
+    {
+     "n": 3,
+     "file": "ep_03.mp4",
+     "start": 199.833,
+     "end": 297.125,
+     "duration": 97.292
+    },
+    {
+     "n": 4,
+     "file": "ep_04.mp4",
+     "start": 297.125,
+     "end": 398.958,
+     "duration": 101.833
+    },
+    {
+     "n": 5,
+     "file": "ep_05.mp4",
+     "start": 398.958,
+     "end": 486.292,
+     "duration": 87.334
+    },
+    {
+     "n": 6,
+     "file": "ep_06.mp4",
+     "start": 486.292,
+     "end": 596.48,
+     "duration": 110.188
+    }
+   ],
+   "source_duration": 596.48,
+   "source_size": [
+    640,
+    360
+   ],
+   "trim_start": 0.0,
+   "poster_time": 239.0
+  },
+  {
+   "id": "caminandes",
+   "license": "CC BY 3.0",
+   "credit": "(CC) Blender Foundation | caminandes.com",
+   "sources": [
+    "https://archive.org/download/Caminandes1LlamaDrama/01_llama_drama_1080p.mp4",
+    "https://archive.org/download/Caminandes2GranDillama/02_gran_dillama_1080p.mp4",
+    "https://commons.wikimedia.org/wiki/Special:FilePath/Caminandes_3_-_Llamigos_-_Blender_Animated_Short.webm"
+   ],
+   "episodes": [
+    {
+     "n": 1,
+     "file": "ep_01.mp4",
+     "source_part": 1,
+     "start": 0,
+     "end": 90.0,
+     "duration": 90.0
+    },
+    {
+     "n": 2,
+     "file": "ep_02.mp4",
+     "source_part": 2,
+     "start": 0,
+     "end": 146.04,
+     "duration": 146.04
+    },
+    {
+     "n": 3,
+     "file": "ep_03.mp4",
+     "source_part": 3,
+     "start": 0,
+     "end": 150.1,
+     "duration": 150.1
+    }
+   ],
+   "poster_time": 73.80044608
+  },
+  {
+   "id": "coffee_run",
+   "license": "CC BY 4.0",
+   "credit": "(CC) Blender Foundation | studio.blender.org",
+   "sources": [
+    "https://commons.wikimedia.org/wiki/Special:FilePath/Coffee_Run_-_Blender_Open_Movie-full_movie.webm"
+   ],
+   "episodes": [
+    {
+     "n": 1,
+     "file": "ep_01.mp4",
+     "start": 0.0,
+     "end": 106.674,
+     "duration": 106.674
+    },
+    {
+     "n": 2,
+     "file": "ep_02.mp4",
+     "start": 106.674,
+     "end": 184.641,
+     "duration": 77.967
+    }
+   ],
+   "source_duration": 184.64,
+   "source_size": [
+    1920,
+    804
+   ],
+   "trim_start": 0.0,
+   "poster_time": 39.39008
+  },
+  {
+   "id": "safety_last",
+   "license": "Public domain (1923)",
+   "credit": "Safety Last! (1923), Harold Lloyd, dir. Fred C. Newmeyer and Sam Taylor. Public domain copy from Wikimedia Commons.",
+   "sources": [
+    "https://commons.wikimedia.org/wiki/Special:FilePath/Safety_Last_(1923).webm"
+   ],
+   "episodes": [
+    {
+     "n": 1,
+     "file": "ep_01.mp4",
+     "start": 0.0,
+     "end": 104.521,
+     "duration": 104.521
+    },
+    {
+     "n": 2,
+     "file": "ep_02.mp4",
+     "start": 104.521,
+     "end": 205.247,
+     "duration": 100.726
+    },
+    {
+     "n": 3,
+     "file": "ep_03.mp4",
+     "start": 205.247,
+     "end": 301.885,
+     "duration": 96.638
+    },
+    {
+     "n": 4,
+     "file": "ep_04.mp4",
+     "start": 301.885,
+     "end": 413.496,
+     "duration": 111.611
+    },
+    {
+     "n": 5,
+     "file": "ep_05.mp4",
+     "start": 413.496,
+     "end": 511.761,
+     "duration": 98.265
+    },
+    {
+     "n": 6,
+     "file": "ep_06.mp4",
+     "start": 511.761,
+     "end": 623.414,
+     "duration": 111.653
+    },
+    {
+     "n": 7,
+     "file": "ep_07.mp4",
+     "start": 623.414,
+     "end": 731.94,
+     "duration": 108.526
+    },
+    {
+     "n": 8,
+     "file": "ep_08.mp4",
+     "start": 731.94,
+     "end": 829.203,
+     "duration": 97.263
+    },
+    {
+     "n": 9,
+     "file": "ep_09.mp4",
+     "start": 829.203,
+     "end": 936.602,
+     "duration": 107.399
+    },
+    {
+     "n": 10,
+     "file": "ep_10.mp4",
+     "start": 936.602,
+     "end": 1037.87,
+     "duration": 101.268
+    },
+    {
+     "n": 11,
+     "file": "ep_11.mp4",
+     "start": 1037.87,
+     "end": 1142.73,
+     "duration": 104.86
+    },
+    {
+     "n": 12,
+     "file": "ep_12.mp4",
+     "start": 1142.73,
+     "end": 1246.37,
+     "duration": 103.64
+    },
+    {
+     "n": 13,
+     "file": "ep_13.mp4",
+     "start": 1246.37,
+     "end": 1351.1,
+     "duration": 104.73
+    },
+    {
+     "n": 14,
+     "file": "ep_14.mp4",
+     "start": 1351.1,
+     "end": 1465.55,
+     "duration": 114.45
+    },
+    {
+     "n": 15,
+     "file": "ep_15.mp4",
+     "start": 1465.55,
+     "end": 1554.18,
+     "duration": 88.63
+    },
+    {
+     "n": 16,
+     "file": "ep_16.mp4",
+     "start": 1554.18,
+     "end": 1663.41,
+     "duration": 109.23
+    },
+    {
+     "n": 17,
+     "file": "ep_17.mp4",
+     "start": 1663.41,
+     "end": 1758.59,
+     "duration": 95.18
+    },
+    {
+     "n": 18,
+     "file": "ep_18.mp4",
+     "start": 1758.59,
+     "end": 1865.2,
+     "duration": 106.61
+    },
+    {
+     "n": 19,
+     "file": "ep_19.mp4",
+     "start": 1865.2,
+     "end": 1972.85,
+     "duration": 107.65
+    },
+    {
+     "n": 20,
+     "file": "ep_20.mp4",
+     "start": 1972.85,
+     "end": 2063.6,
+     "duration": 90.75
+    },
+    {
+     "n": 21,
+     "file": "ep_21.mp4",
+     "start": 2063.6,
+     "end": 2187.98,
+     "duration": 124.38
+    },
+    {
+     "n": 22,
+     "file": "ep_22.mp4",
+     "start": 2187.98,
+     "end": 2282.99,
+     "duration": 95.01
+    },
+    {
+     "n": 23,
+     "file": "ep_23.mp4",
+     "start": 2282.99,
+     "end": 2384.05,
+     "duration": 101.06
+    },
+    {
+     "n": 24,
+     "file": "ep_24.mp4",
+     "start": 2384.05,
+     "end": 2494.37,
+     "duration": 110.32
+    },
+    {
+     "n": 25,
+     "file": "ep_25.mp4",
+     "start": 2494.37,
+     "end": 2584.66,
+     "duration": 90.29
+    },
+    {
+     "n": 26,
+     "file": "ep_26.mp4",
+     "start": 2584.66,
+     "end": 2702.12,
+     "duration": 117.46
+    },
+    {
+     "n": 27,
+     "file": "ep_27.mp4",
+     "start": 2702.12,
+     "end": 2804.93,
+     "duration": 102.81
+    },
+    {
+     "n": 28,
+     "file": "ep_28.mp4",
+     "start": 2804.93,
+     "end": 2908.66,
+     "duration": 103.73
+    },
+    {
+     "n": 29,
+     "file": "ep_29.mp4",
+     "start": 2908.66,
+     "end": 3020.02,
+     "duration": 111.36
+    },
+    {
+     "n": 30,
+     "file": "ep_30.mp4",
+     "start": 3020.02,
+     "end": 3122.29,
+     "duration": 102.27
+    },
+    {
+     "n": 31,
+     "file": "ep_31.mp4",
+     "start": 3122.29,
+     "end": 3221.3,
+     "duration": 99.01
+    },
+    {
+     "n": 32,
+     "file": "ep_32.mp4",
+     "start": 3221.3,
+     "end": 3323.99,
+     "duration": 102.69
+    },
+    {
+     "n": 33,
+     "file": "ep_33.mp4",
+     "start": 3323.99,
+     "end": 3431.47,
+     "duration": 107.48
+    },
+    {
+     "n": 34,
+     "file": "ep_34.mp4",
+     "start": 3431.47,
+     "end": 3536.83,
+     "duration": 105.36
+    },
+    {
+     "n": 35,
+     "file": "ep_35.mp4",
+     "start": 3536.83,
+     "end": 3636.01,
+     "duration": 99.18
+    },
+    {
+     "n": 36,
+     "file": "ep_36.mp4",
+     "start": 3636.01,
+     "end": 3739.07,
+     "duration": 103.06
+    },
+    {
+     "n": 37,
+     "file": "ep_37.mp4",
+     "start": 3739.07,
+     "end": 3850.18,
+     "duration": 111.11
+    },
+    {
+     "n": 38,
+     "file": "ep_38.mp4",
+     "start": 3850.18,
+     "end": 3934.56,
+     "duration": 84.38
+    },
+    {
+     "n": 39,
+     "file": "ep_39.mp4",
+     "start": 3934.56,
+     "end": 4050.67,
+     "duration": 116.11
+    },
+    {
+     "n": 40,
+     "file": "ep_40.mp4",
+     "start": 4050.67,
+     "end": 4155.11,
+     "duration": 104.44
+    },
+    {
+     "n": 41,
+     "file": "ep_41.mp4",
+     "start": 4155.11,
+     "end": 4267.68,
+     "duration": 112.57
+    },
+    {
+     "n": 42,
+     "file": "ep_42.mp4",
+     "start": 4267.68,
+     "end": 4361.968,
+     "duration": 94.288
+    }
+   ],
+   "source_duration": 4361.97,
+   "source_size": [
+    986,
+    720
+   ],
+   "music_credit": "Music: Scott Joplin and others, public domain piano recordings by Gnissah on Wikimedia Commons.",
+   "trim_start": 0.0,
+   "poster_time": 523.43616
+  },
+  {
+   "id": "sintel",
+   "license": "CC BY 3.0",
+   "credit": "© copyright Blender Foundation | durian.blender.org",
+   "sources": [
+    "https://download.blender.org/durian/movies/Sintel.2010.1080p.mkv"
+   ],
+   "episodes": [
+    {
+     "n": 1,
+     "file": "ep_01.mp4",
+     "start": 0.0,
+     "end": 101.208,
+     "duration": 101.208
+    },
+    {
+     "n": 2,
+     "file": "ep_02.mp4",
+     "start": 101.208,
+     "end": 197.625,
+     "duration": 96.417
+    },
+    {
+     "n": 3,
+     "file": "ep_03.mp4",
+     "start": 197.625,
+     "end": 297.25,
+     "duration": 99.625
+    },
+    {
+     "n": 4,
+     "file": "ep_04.mp4",
+     "start": 297.25,
+     "end": 382.917,
+     "duration": 85.667
+    },
+    {
+     "n": 5,
+     "file": "ep_05.mp4",
+     "start": 382.917,
+     "end": 483.708,
+     "duration": 100.791
+    },
+    {
+     "n": 6,
+     "file": "ep_06.mp4",
+     "start": 483.708,
+     "end": 598.958,
+     "duration": 115.25
+    },
+    {
+     "n": 7,
+     "file": "ep_07.mp4",
+     "start": 598.958,
+     "end": 684.417,
+     "duration": 85.459
+    },
+    {
+     "n": 8,
+     "file": "ep_08.mp4",
+     "start": 684.417,
+     "end": 789.362,
+     "duration": 104.945
+    },
+    {
+     "n": 9,
+     "file": "ep_09.mp4",
+     "start": 789.362,
+     "end": 888.032,
+     "duration": 98.67
+    }
+   ],
+   "source_duration": 888.03,
+   "source_size": [
+    1920,
+    818
+   ],
+   "trim_start": 0.0,
+   "poster_time": 728.18624
+  },
+  {
+   "id": "spring",
+   "license": "CC BY 4.0",
+   "credit": "© Blender Foundation | cloud.blender.org/spring",
+   "sources": [
+    "https://commons.wikimedia.org/wiki/Special:FilePath/Spring_-_Blender_Open_Movie.webm"
+   ],
+   "episodes": [
+    {
+     "n": 1,
+     "file": "ep_01.mp4",
+     "start": 0.0,
+     "end": 92.828,
+     "duration": 92.828
+    },
+    {
+     "n": 2,
+     "file": "ep_02.mp4",
+     "start": 92.828,
+     "end": 189.18,
+     "duration": 96.352
+    },
+    {
+     "n": 3,
+     "file": "ep_03.mp4",
+     "start": 189.18,
+     "end": 272.306,
+     "duration": 83.126
+    },
+    {
+     "n": 4,
+     "file": "ep_04.mp4",
+     "start": 272.306,
+     "end": 367.806,
+     "duration": 95.5
+    },
+    {
+     "n": 5,
+     "file": "ep_05.mp4",
+     "start": 367.806,
+     "end": 464.141,
+     "duration": 96.335
+    }
+   ],
+   "source_duration": 464.14,
+   "source_size": [
+    2048,
+    858
+   ],
+   "trim_start": 0.0,
+   "poster_time": 56.0
+  },
+  {
+   "id": "tears_of_steel",
+   "license": "CC BY 3.0",
+   "credit": "(CC) Blender Foundation | mango.blender.org",
+   "sources": [
+    "https://download.blender.org/demo/movies/ToS/tears_of_steel_720p.mov"
+   ],
+   "episodes": [
+    {
+     "n": 1,
+     "file": "ep_01.mp4",
+     "start": 0.0,
+     "end": 102.417,
+     "duration": 102.417
+    },
+    {
+     "n": 2,
+     "file": "ep_02.mp4",
+     "start": 102.417,
+     "end": 208.667,
+     "duration": 106.25
+    },
+    {
+     "n": 3,
+     "file": "ep_03.mp4",
+     "start": 208.667,
+     "end": 315.375,
+     "duration": 106.708
+    },
+    {
+     "n": 4,
+     "file": "ep_04.mp4",
+     "start": 315.375,
+     "end": 418.792,
+     "duration": 103.417
+    },
+    {
+     "n": 5,
+     "file": "ep_05.mp4",
+     "start": 418.792,
+     "end": 527.417,
+     "duration": 108.625
+    },
+    {
+     "n": 6,
+     "file": "ep_06.mp4",
+     "start": 527.417,
+     "end": 616.875,
+     "duration": 89.458
+    },
+    {
+     "n": 7,
+     "file": "ep_07.mp4",
+     "start": 616.875,
+     "end": 734.167,
+     "duration": 117.292
+    }
+   ],
+   "source_duration": 734.17,
+   "source_size": [
+    1280,
+    534
+   ],
+   "trim_start": 0.0,
+   "poster_time": 430.7111113066666
+  },
+  {
+   "id": "the_general",
+   "license": "Public domain (1926)",
+   "credit": "The General (1926), Buster Keaton and Clyde Bruckman. Public domain copy from Wikimedia Commons.",
+   "sources": [
+    "https://commons.wikimedia.org/wiki/Special:FilePath/The_General_1926_720p.webm"
+   ],
+   "episodes": [
+    {
+     "n": 1,
+     "file": "ep_01.mp4",
+     "start": 8.0,
+     "end": 118.349,
+     "duration": 110.349
+    },
+    {
+     "n": 2,
+     "file": "ep_02.mp4",
+     "start": 118.349,
+     "end": 202.433,
+     "duration": 84.084
+    },
+    {
+     "n": 3,
+     "file": "ep_03.mp4",
+     "start": 202.433,
+     "end": 322.428,
+     "duration": 119.995
+    },
+    {
+     "n": 4,
+     "file": "ep_04.mp4",
+     "start": 322.428,
+     "end": 415.813,
+     "duration": 93.385
+    },
+    {
+     "n": 5,
+     "file": "ep_05.mp4",
+     "start": 415.813,
+     "end": 536.934,
+     "duration": 121.121
+    },
+    {
+     "n": 6,
+     "file": "ep_06.mp4",
+     "start": 536.934,
+     "end": 653.384,
+     "duration": 116.45
+    },
+    {
+     "n": 7,
+     "file": "ep_07.mp4",
+     "start": 653.384,
+     "end": 745.226,
+     "duration": 91.842
+    },
+    {
+     "n": 8,
+     "file": "ep_08.mp4",
+     "start": 745.226,
+     "end": 854.084,
+     "duration": 108.858
+    },
+    {
+     "n": 9,
+     "file": "ep_09.mp4",
+     "start": 854.084,
+     "end": 953.016,
+     "duration": 98.932
+    },
+    {
+     "n": 10,
+     "file": "ep_10.mp4",
+     "start": 953.016,
+     "end": 1057.87,
+     "duration": 104.854
+    },
+    {
+     "n": 11,
+     "file": "ep_11.mp4",
+     "start": 1057.87,
+     "end": 1171.86,
+     "duration": 113.99
+    },
+    {
+     "n": 12,
+     "file": "ep_12.mp4",
+     "start": 1171.86,
+     "end": 1285.18,
+     "duration": 113.32
+    },
+    {
+     "n": 13,
+     "file": "ep_13.mp4",
+     "start": 1285.18,
+     "end": 1384.66,
+     "duration": 99.48
+    },
+    {
+     "n": 14,
+     "file": "ep_14.mp4",
+     "start": 1384.66,
+     "end": 1478.29,
+     "duration": 93.63
+    },
+    {
+     "n": 15,
+     "file": "ep_15.mp4",
+     "start": 1478.29,
+     "end": 1569.97,
+     "duration": 91.68
+    },
+    {
+     "n": 16,
+     "file": "ep_16.mp4",
+     "start": 1569.97,
+     "end": 1685.33,
+     "duration": 115.36
+    },
+    {
+     "n": 17,
+     "file": "ep_17.mp4",
+     "start": 1685.33,
+     "end": 1803.45,
+     "duration": 118.12
+    },
+    {
+     "n": 18,
+     "file": "ep_18.mp4",
+     "start": 1803.45,
+     "end": 1896.46,
+     "duration": 93.01
+    },
+    {
+     "n": 19,
+     "file": "ep_19.mp4",
+     "start": 1896.46,
+     "end": 2002.727,
+     "duration": 106.267
+    },
+    {
+     "n": 20,
+     "file": "ep_20.mp4",
+     "start": 2002.727,
+     "end": 2124.35,
+     "duration": 121.623
+    },
+    {
+     "n": 21,
+     "file": "ep_21.mp4",
+     "start": 2124.35,
+     "end": 2224.99,
+     "duration": 100.64
+    },
+    {
+     "n": 22,
+     "file": "ep_22.mp4",
+     "start": 2224.99,
+     "end": 2317.684,
+     "duration": 92.694
+    },
+    {
+     "n": 23,
+     "file": "ep_23.mp4",
+     "start": 2317.684,
+     "end": 2422.669,
+     "duration": 104.986
+    },
+    {
+     "n": 24,
+     "file": "ep_24.mp4",
+     "start": 2422.669,
+     "end": 2527.655,
+     "duration": 104.986
+    },
+    {
+     "n": 25,
+     "file": "ep_25.mp4",
+     "start": 2527.655,
+     "end": 2621.22,
+     "duration": 93.565
+    },
+    {
+     "n": 26,
+     "file": "ep_26.mp4",
+     "start": 2621.22,
+     "end": 2731.21,
+     "duration": 109.99
+    },
+    {
+     "n": 27,
+     "file": "ep_27.mp4",
+     "start": 2731.21,
+     "end": 2844.61,
+     "duration": 113.4
+    },
+    {
+     "n": 28,
+     "file": "ep_28.mp4",
+     "start": 2844.61,
+     "end": 2936.91,
+     "duration": 92.3
+    },
+    {
+     "n": 29,
+     "file": "ep_29.mp4",
+     "start": 2936.91,
+     "end": 3070.97,
+     "duration": 134.06
+    },
+    {
+     "n": 30,
+     "file": "ep_30.mp4",
+     "start": 3070.97,
+     "end": 3159.01,
+     "duration": 88.04
+    },
+    {
+     "n": 31,
+     "file": "ep_31.mp4",
+     "start": 3159.01,
+     "end": 3261.7,
+     "duration": 102.69
+    },
+    {
+     "n": 32,
+     "file": "ep_32.mp4",
+     "start": 3261.7,
+     "end": 3368.97,
+     "duration": 107.27
+    },
+    {
+     "n": 33,
+     "file": "ep_33.mp4",
+     "start": 3368.97,
+     "end": 3470.16,
+     "duration": 101.19
+    },
+    {
+     "n": 34,
+     "file": "ep_34.mp4",
+     "start": 3470.16,
+     "end": 3579.31,
+     "duration": 109.15
+    },
+    {
+     "n": 35,
+     "file": "ep_35.mp4",
+     "start": 3579.31,
+     "end": 3682.58,
+     "duration": 103.27
+    },
+    {
+     "n": 36,
+     "file": "ep_36.mp4",
+     "start": 3682.58,
+     "end": 3786.93,
+     "duration": 104.35
+    },
+    {
+     "n": 37,
+     "file": "ep_37.mp4",
+     "start": 3786.93,
+     "end": 3886.78,
+     "duration": 99.85
+    },
+    {
+     "n": 38,
+     "file": "ep_38.mp4",
+     "start": 3886.78,
+     "end": 3976.29,
+     "duration": 89.51
+    },
+    {
+     "n": 39,
+     "file": "ep_39.mp4",
+     "start": 3976.29,
+     "end": 4103.41,
+     "duration": 127.12
+    },
+    {
+     "n": 40,
+     "file": "ep_40.mp4",
+     "start": 4103.41,
+     "end": 4191.5,
+     "duration": 88.09
+    },
+    {
+     "n": 41,
+     "file": "ep_41.mp4",
+     "start": 4191.5,
+     "end": 4322.05,
+     "duration": 130.55
+    },
+    {
+     "n": 42,
+     "file": "ep_42.mp4",
+     "start": 4322.05,
+     "end": 4421.61,
+     "duration": 99.56
+    },
+    {
+     "n": 43,
+     "file": "ep_43.mp4",
+     "start": 4421.61,
+     "end": 4518.66,
+     "duration": 97.05
+    },
+    {
+     "n": 44,
+     "file": "ep_44.mp4",
+     "start": 4518.66,
+     "end": 4627.52,
+     "duration": 108.86
+    },
+    {
+     "n": 45,
+     "file": "ep_45.mp4",
+     "start": 4627.52,
+     "end": 4732.353,
+     "duration": 104.833
+    }
+   ],
+   "source_duration": 4732.35,
+   "source_size": [
+    960,
+    720
+   ],
+   "music_credit": "Music: Scott Joplin and others, public domain piano recordings by Gnissah on Wikimedia Commons.",
+   "trim_start": 8.0,
+   "poster_time": 3438.8431800000003
+  },
+  {
+   "id": "wing_it",
+   "license": "CC BY 4.0",
+   "credit": "(CC) Blender Foundation | studio.blender.org",
+   "sources": [
+    "https://archive.org/download/wing_it/wing_it.mp4"
+   ],
+   "episodes": [
+    {
+     "n": 1,
+     "file": "ep_01.mp4",
+     "start": 0.0,
+     "end": 121.042,
+     "duration": 121.042
+    },
+    {
+     "n": 2,
+     "file": "ep_02.mp4",
+     "start": 121.042,
+     "end": 237.937,
+     "duration": 116.895
+    }
+   ],
+   "source_duration": 237.94,
+   "source_size": [
+    1920,
+    1080
+   ],
+   "trim_start": 0.0,
+   "poster_time": 95.0
+  }
+ ]
+}

@@ -1,0 +1,312 @@
+{
+ "id": "safety_last",
+ "license": "Public domain (1923)",
+ "credit": "Safety Last! (1923), Harold Lloyd, dir. Fred C. Newmeyer and Sam Taylor. Public domain copy from Wikimedia Commons.",
+ "sources": [
+  "https://commons.wikimedia.org/wiki/Special:FilePath/Safety_Last_(1923).webm"
+ ],
+ "episodes": [
+  {
+   "n": 1,
+   "file": "ep_01.mp4",
+   "start": 0.0,
+   "end": 104.521,
+   "duration": 104.521
+  },
+  {
+   "n": 2,
+   "file": "ep_02.mp4",
+   "start": 104.521,
+   "end": 205.247,
+   "duration": 100.726
+  },
+  {
+   "n": 3,
+   "file": "ep_03.mp4",
+   "start": 205.247,
+   "end": 301.885,
+   "duration": 96.638
+  },
+  {
+   "n": 4,
+   "file": "ep_04.mp4",
+   "start": 301.885,
+   "end": 413.496,
+   "duration": 111.611
+  },
+  {
+   "n": 5,
+   "file": "ep_05.mp4",
+   "start": 413.496,
+   "end": 511.761,
+   "duration": 98.265
+  },
+  {
+   "n": 6,
+   "file": "ep_06.mp4",
+   "start": 511.761,
+   "end": 623.414,
+   "duration": 111.653
+  },
+  {
+   "n": 7,
+   "file": "ep_07.mp4",
+   "start": 623.414,
+   "end": 731.94,
+   "duration": 108.526
+  },
+  {
+   "n": 8,
+   "file": "ep_08.mp4",
+   "start": 731.94,
+   "end": 829.203,
+   "duration": 97.263
+  },
+  {
+   "n": 9,
+   "file": "ep_09.mp4",
+   "start": 829.203,
+   "end": 936.602,
+   "duration": 107.399
+  },
+  {
+   "n": 10,
+   "file": "ep_10.mp4",
+   "start": 936.602,
+   "end": 1037.87,
+   "duration": 101.268
+  },
+  {
+   "n": 11,
+   "file": "ep_11.mp4",
+   "start": 1037.87,
+   "end": 1142.73,
+   "duration": 104.86
+  },
+  {
+   "n": 12,
+   "file": "ep_12.mp4",
+   "start": 1142.73,
+   "end": 1246.37,
+   "duration": 103.64
+  },
+  {
+   "n": 13,
+   "file": "ep_13.mp4",
+   "start": 1246.37,
+   "end": 1351.1,
+   "duration": 104.73
+  },
+  {
+   "n": 14,
+   "file": "ep_14.mp4",
+   "start": 1351.1,
+   "end": 1465.55,
+   "duration": 114.45
+  },
+  {
+   "n": 15,
+   "file": "ep_15.mp4",
+   "start": 1465.55,
+   "end": 1554.18,
+   "duration": 88.63
+  },
+  {
+   "n": 16,
+   "file": "ep_16.mp4",
+   "start": 1554.18,
+   "end": 1663.41,
+   "duration": 109.23
+  },
+  {
+   "n": 17,
+   "file": "ep_17.mp4",
+   "start": 1663.41,
+   "end": 1758.59,
+   "duration": 95.18
+  },
+  {
+   "n": 18,
+   "file": "ep_18.mp4",
+   "start": 1758.59,
+   "end": 1865.2,
+   "duration": 106.61
+  },
+  {
+   "n": 19,
+   "file": "ep_19.mp4",
+   "start": 1865.2,
+   "end": 1972.85,
+   "duration": 107.65
+  },
+  {
+   "n": 20,
+   "file": "ep_20.mp4",
+   "start": 1972.85,
+   "end": 2063.6,
+   "duration": 90.75
+  },
+  {
+   "n": 21,
+   "file": "ep_21.mp4",
+   "start": 2063.6,
+   "end": 2187.98,
+   "duration": 124.38
+  },
+  {
+   "n": 22,
+   "file": "ep_22.mp4",
+   "start": 2187.98,
+   "end": 2282.99,
+   "duration": 95.01
+  },
+  {
+   "n": 23,
+   "file": "ep_23.mp4",
+   "start": 2282.99,
+   "end": 2384.05,
+   "duration": 101.06
+  },
+  {
+   "n": 24,
+   "file": "ep_24.mp4",
+   "start": 2384.05,
+   "end": 2494.37,
+   "duration": 110.32
+  },
+  {
+   "n": 25,
+   "file": "ep_25.mp4",
+   "start": 2494.37,
+   "end": 2584.66,
+   "duration": 90.29
+  },
+  {
+   "n": 26,
+   "file": "ep_26.mp4",
+   "start": 2584.66,
+   "end": 2702.12,
+   "duration": 117.46
+  },
+  {
+   "n": 27,
+   "file": "ep_27.mp4",
+   "start": 2702.12,
+   "end": 2804.93,
+   "duration": 102.81
+  },
+  {
+   "n": 28,
+   "file": "ep_28.mp4",
+   "start": 2804.93,
+   "end": 2908.66,
+   "duration": 103.73
+  },
+  {
+   "n": 29,
+   "file": "ep_29.mp4",
+   "start": 2908.66,
+   "end": 3020.02,
+   "duration": 111.36
+  },
+  {
+   "n": 30,
+   "file": "ep_30.mp4",
+   "start": 3020.02,
+   "end": 3122.29,
+   "duration": 102.27
+  },
+  {
+   "n": 31,
+   "file": "ep_31.mp4",
+   "start": 3122.29,
+   "end": 3221.3,
+   "duration": 99.01
+  },
+  {
+   "n": 32,
+   "file": "ep_32.mp4",
+   "start": 3221.3,
+   "end": 3323.99,
+   "duration": 102.69
+  },
+  {
+   "n": 33,
+   "file": "ep_33.mp4",
+   "start": 3323.99,
+   "end": 3431.47,
+   "duration": 107.48
+  },
+  {
+   "n": 34,
+   "file": "ep_34.mp4",
+   "start": 3431.47,
+   "end": 3536.83,
+   "duration": 105.36
+  },
+  {
+   "n": 35,
+   "file": "ep_35.mp4",
+   "start": 3536.83,
+   "end": 3636.01,
+   "duration": 99.18
+  },
+  {
+   "n": 36,
+   "file": "ep_36.mp4",
+   "start": 3636.01,
+   "end": 3739.07,
+   "duration": 103.06
+  },
+  {
+   "n": 37,
+   "file": "ep_37.mp4",
+   "start": 3739.07,
+   "end": 3850.18,
+   "duration": 111.11
+  },
+  {
+   "n": 38,
+   "file": "ep_38.mp4",
+   "start": 3850.18,
+   "end": 3934.56,
+   "duration": 84.38
+  },
+  {
+   "n": 39,
+   "file": "ep_39.mp4",
+   "start": 3934.56,
+   "end": 4050.67,
+   "duration": 116.11
+  },
+  {
+   "n": 40,
+   "file": "ep_40.mp4",
+   "start": 4050.67,
+   "end": 4155.11,
+   "duration": 104.44
+  },
+  {
+   "n": 41,
+   "file": "ep_41.mp4",
+   "start": 4155.11,
+   "end": 4267.68,
+   "duration": 112.57
+  },
+  {
+   "n": 42,
+   "file": "ep_42.mp4",
+   "start": 4267.68,
+   "end": 4361.968,
+   "duration": 94.288
+  }
+ ],
+ "source_duration": 4361.97,
+ "source_size": [
+  986,
+  720
+ ],
+ "music_credit": "Music: Scott Joplin and others, public domain piano recordings by Gnissah on Wikimedia Commons.",
+ "trim_start": 0.0,
+ "poster_time": 523.43616
+}

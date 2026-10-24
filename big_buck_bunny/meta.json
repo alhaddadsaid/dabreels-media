@@ -1,0 +1,59 @@
+{
+ "id": "big_buck_bunny",
+ "license": "CC BY 3.0",
+ "credit": "(c) copyright 2008, Blender Foundation / www.bigbuckbunny.org",
+ "sources": [
+  "https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4"
+ ],
+ "episodes": [
+  {
+   "n": 1,
+   "file": "ep_01.mp4",
+   "start": 0.0,
+   "end": 99.75,
+   "duration": 99.75
+  },
+  {
+   "n": 2,
+   "file": "ep_02.mp4",
+   "start": 99.75,
+   "end": 199.833,
+   "duration": 100.083
+  },
+  {
+   "n": 3,
+   "file": "ep_03.mp4",
+   "start": 199.833,
+   "end": 297.125,
+   "duration": 97.292
+  },
+  {
+   "n": 4,
+   "file": "ep_04.mp4",
+   "start": 297.125,
+   "end": 398.958,
+   "duration": 101.833
+  },
+  {
+   "n": 5,
+   "file": "ep_05.mp4",
+   "start": 398.958,
+   "end": 486.292,
+   "duration": 87.334
+  },
+  {
+   "n": 6,
+   "file": "ep_06.mp4",
+   "start": 486.292,
+   "end": 596.48,
+   "duration": 110.188
+  }
+ ],
+ "source_duration": 596.48,
+ "source_size": [
+  640,
+  360
+ ],
+ "trim_start": 0.0,
+ "poster_time": 239.0
+}

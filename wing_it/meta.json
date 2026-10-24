@@ -1,0 +1,31 @@
+{
+ "id": "wing_it",
+ "license": "CC BY 4.0",
+ "credit": "(CC) Blender Foundation | studio.blender.org",
+ "sources": [
+  "https://archive.org/download/wing_it/wing_it.mp4"
+ ],
+ "episodes": [
+  {
+   "n": 1,
+   "file": "ep_01.mp4",
+   "start": 0.0,
+   "end": 121.042,
+   "duration": 121.042
+  },
+  {
+   "n": 2,
+   "file": "ep_02.mp4",
+   "start": 121.042,
+   "end": 237.937,
+   "duration": 116.895
+  }
+ ],
+ "source_duration": 237.94,
+ "source_size": [
+  1920,
+  1080
+ ],
+ "trim_start": 0.0,
+ "poster_time": 95.0
+}
