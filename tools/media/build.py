@@ -182,7 +182,7 @@ def frame_score(path):
     return contrast * (10 + colour)
 
 
-def make_images(src, duration, w, h, outdir, workdir, silent):
+def make_images(src, duration, w, h, outdir, workdir, silent, poster_time=None):
     cand_dir = os.path.join(workdir, 'cand')
     os.makedirs(cand_dir, exist_ok=True)
     times = [duration * (0.12 + 0.70 * i / 15) for i in range(16)]
@@ -207,6 +207,11 @@ def make_images(src, duration, w, h, outdir, workdir, silent):
          os.path.join(outdir, 'sheet.jpg')])
     best = max(scored)[2]
     best_t = max(scored)[1]
+    if poster_time is not None:  # a person picked a better frame from sheet.jpg
+        best_t = float(poster_time)
+        best = os.path.join(cand_dir, 'picked.png')
+        run(['ffmpeg', '-nostdin', '-loglevel', 'error', '-y', '-ss', f'{best_t:.2f}', '-i', src,
+             '-frames:v', '1', best])
     # poster 2:3: centre crop of the frame, blurred fill if the frame is too narrow
     run(['ffmpeg', '-nostdin', '-loglevel', 'error', '-y', '-i', best, '-filter_complex',
          '[0:v]split[a][b];[a]scale=600:900:force_original_aspect_ratio=increase,crop=600:900,boxblur=20:2[bg];'
@@ -314,7 +319,7 @@ def main():
             meta['episodes'].append({'n': k, 'file': f'ep_{k:02d}.mp4', 'source_part': k,
                                      'start': 0, 'end': round(dur, 2), 'duration': round(dur, 2)})
             if k == 1:
-                meta['poster_time'] = make_images(src, dur, w, h, outdir, work, False)
+                meta['poster_time'] = make_images(src, dur, w, h, outdir, work, False, film.get('poster_time'))
         json.dump(meta, open(os.path.join(outdir, 'meta.json'), 'w'), indent=1, ensure_ascii=False)
         return
 
@@ -342,7 +347,7 @@ def main():
                        has_audio=has_audio and not film.get('silent'))
         meta['episodes'].append({'n': k + 1, 'file': f'ep_{k + 1:02d}.mp4', 'start': round(a, 3),
                                  'end': round(b, 3), 'duration': round(b - a, 3)})
-    meta['poster_time'] = make_images(src, dur, w, h, outdir, work, bool(film.get('silent')))
+    meta['poster_time'] = make_images(src, dur, w, h, outdir, work, bool(film.get('silent')), film.get('poster_time'))
     json.dump(meta, open(os.path.join(outdir, 'meta.json'), 'w'), indent=1, ensure_ascii=False)
 
 

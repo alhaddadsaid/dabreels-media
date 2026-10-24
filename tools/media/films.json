@@ -31,7 +31,8 @@
         "https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4"
       ],
       "license": "CC BY 3.0",
-      "credit": "(c) copyright 2008, Blender Foundation / www.bigbuckbunny.org"
+      "credit": "(c) copyright 2008, Blender Foundation / www.bigbuckbunny.org",
+      "poster_time": 239
     },
     {
       "id": "spring",
@@ -39,7 +40,8 @@
         "https://commons.wikimedia.org/wiki/Special:FilePath/Spring_-_Blender_Open_Movie.webm"
       ],
       "license": "CC BY 4.0",
-      "credit": "© Blender Foundation | cloud.blender.org/spring"
+      "credit": "© Blender Foundation | cloud.blender.org/spring",
+      "poster_time": 56
     },
     {
       "id": "coffee_run",
@@ -55,7 +57,8 @@
         "https://archive.org/download/wing_it/wing_it.mp4"
       ],
       "license": "CC BY 4.0",
-      "credit": "(CC) Blender Foundation | studio.blender.org"
+      "credit": "(CC) Blender Foundation | studio.blender.org",
+      "poster_time": 95
     },
     {
       "id": "caminandes",
